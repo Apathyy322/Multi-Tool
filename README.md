@@ -17,5 +17,9 @@ This Multi-Tool has nothing to do against ToS of discord or anything else!
 Made in python in 2-3 days. I will add more options for multi-tool depending on your ideas! (create issue and type your idea there!)
 
 Made for Educational Purposes only!
+
+
+
+P.S I would like to add that by far it is my biggest project and i wouldnt even make it if i wasnt motivated by this github page, so luv y'all
 # Made by Apathyy322
 
