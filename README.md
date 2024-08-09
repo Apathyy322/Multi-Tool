@@ -21,5 +21,8 @@ Made for Educational Purposes only!
 
 
 P.S I would like to add that by far it is my biggest project and i wouldnt even make it if i wasnt motivated by this github page, so luv y'all
+
+
+Add all your own tokens and apis instead of text  in txt files!
 # Made by Apathyy322
 
